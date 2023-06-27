@@ -97,7 +97,7 @@ export default function NavBar() {
                Apresentação
               </li>
             </Link>
-            <a href="https://docs.google.com/document/d/1sgYavMCFvWNE9087_VI4PW0bl7Kls3gzYluUPpbMT_o/edit">
+            <a href="https://drive.google.com/file/d/1s1vr9eA6twg9XEKt8C1rpZ6PESpx2Goy/view?usp=sharing">
             <button className="mx-5 uppercase bg-none text-sm 2xl:text-base border border-purple-600 hover:font-bold text-purple-600 font-bold hover:text-white px-4 rounded shadow hover:bg-purple-600 focus:text-gray-200 transition duration-300 ease-in-out">
               Download CV
             </button>
